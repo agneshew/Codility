@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3b0c37c-aead-4e92-9883-3cebc8ca53b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/agnes/CyclicRotation.java" afterDir="false" />
+    <list default="true" id="b3b0c37c-aead-4e92-9883-3cebc8ca53b6" name="Default Changelist" comment="CyclicRotation added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/agnes/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agnes/CyclicRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/agnes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/agnes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +59,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625084438285</updated>
-      <workItem from="1625084439961" duration="4865000" />
+      <workItem from="1625084439961" duration="7036000" />
     </task>
+    <task id="LOCAL-00001" summary="CyclicRotation added">
+      <created>1625165166930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625165166930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CyclicRotation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="CyclicRotation added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="675" y="388" key="Github.ShareDialog" timestamp="1625085850636">
@@ -76,21 +87,25 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="616" y="196" key="Github.UntrackedFilesDialog/0.25.1440.875@0.25.1440.875" timestamp="1625085863885" />
-    <state width="1064" height="186" key="GridCell.Tab.0.bottom" timestamp="1625165030387">
+    <state width="1064" height="186" key="GridCell.Tab.0.bottom" timestamp="1625166343331">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1064" height="186" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1625165030387" />
-    <state width="1064" height="186" key="GridCell.Tab.0.center" timestamp="1625165030386">
+    <state width="1064" height="186" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1625166343331" />
+    <state width="1064" height="186" key="GridCell.Tab.0.center" timestamp="1625166343330">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1064" height="186" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1625165030386" />
-    <state width="1064" height="186" key="GridCell.Tab.0.left" timestamp="1625165030386">
+    <state width="1064" height="186" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1625166343330" />
+    <state width="1064" height="186" key="GridCell.Tab.0.left" timestamp="1625166343330">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1064" height="186" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1625165030386" />
-    <state width="1064" height="186" key="GridCell.Tab.0.right" timestamp="1625165030387">
+    <state width="1064" height="186" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1625166343330" />
+    <state width="1064" height="186" key="GridCell.Tab.0.right" timestamp="1625166343331">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1064" height="186" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1625165030387" />
+    <state width="1064" height="186" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1625166343331" />
+    <state x="619" y="174" key="Vcs.Push.Dialog.v2" timestamp="1625165169085">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="619" y="174" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1625165169085" />
   </component>
 </project>
