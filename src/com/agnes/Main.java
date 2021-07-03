@@ -7,10 +7,6 @@ public class Main {
         BinaryGaps binaryGaps = new BinaryGaps();
         binaryGaps.solution(1041);
 
-
-
-
-
         CyclicRotation cyclicRotation = new CyclicRotation();
         cyclicRotation.solution(new int[]{2, 3, 5, 6, 8, 9}, 3);
 

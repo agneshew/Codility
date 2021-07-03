@@ -2,26 +2,26 @@ package com.agnes;
 
 import java.util.Arrays;
 
-
 public class OddOccurrencesInArray {
 
-
     public void solution(int[] A) {
+
         int[] arrTemp = A.clone();
+        int index = 0;
+
         Arrays.sort(arrTemp);
 
         System.out.print("\nArray: ");
 
-        for (int i=0; i < A.length ; i++) {
+        for (int i = 0; i < A.length; i++) {
             System.out.print(A[i] + " ");
         }
 
-        int index = 0;
-        while(index < (arrTemp.length -1)) {
-            if (arrTemp[index] != arrTemp[(index+1)]) {
+        while (index < (arrTemp.length - 1)) {
+            if (arrTemp[index] != arrTemp[(index + 1)]) {
                 System.out.println("\nIndex without pair: " + arrTemp[index]);
             }
-            index +=2;
+            index += 2;
         }
     }
 }
